@@ -17,7 +17,7 @@ import MobileNavbarLinks from "../MobileNavbarLinks/MobileNavbarLinks"
 import { ThemeSwitcher } from "../ThemeSwitcher/ThemeSwitcher"
 
 export const links = [
-  { href: '/', name: 'Home' },
+  { href: 'https://sern.dev', name: 'Back to sern.dev' },
   { href: '/dashboard', name: 'Dashboard' },
   { href: '/add', name: 'Submit' },
 ]
